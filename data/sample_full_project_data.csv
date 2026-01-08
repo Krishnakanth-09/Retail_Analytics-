@@ -1,0 +1,21 @@
+order_id,order_date,customer_id,city,sales_channel,category,sub_category,quantity,unit_price,discount_pct,gross_amount,discount_amount,net_amount,payment_method
+ORD1001,2024-10-12,CUST006,Mumbai,Online,Fashion,Jeans,4,4080,0,16320,0.0,16320.0,UPI
+ORD1002,2024-03-21,CUST038,Bengaluru,Online,Groceries,Staples,5,3562,5,17810,890.5,16919.5,UPI
+ORD1003,2024-08-24,CUST042,Delhi,Marketplace,Home & Kitchen,Cookware,5,662,20,3310,662.0,2648.0,Debit Card
+ORD1004,2024-02-01,CUST018,Mumbai,Online,Fashion,Jeans,2,1131,5,2262,113.1,2148.9,Cash on Delivery
+ORD1005,2024-08-04,CUST007,Pune,Retail Store,Groceries,Beverages,3,4829,0,14487,0.0,14487.0,Cash on Delivery
+ORD1006,2024-11-21,CUST017,Pune,Retail Store,Electronics,Headphones,1,597,15,597,89.55,507.45,Cash on Delivery
+ORD1007,2024-08-08,CUST027,Delhi,Online,Electronics,Headphones,5,4221,10,21105,2110.5,18994.5,Credit Card
+ORD1008,2024-04-07,CUST009,Mumbai,Marketplace,Groceries,Dairy,5,255,5,1275,63.75,1211.25,Cash on Delivery
+ORD1009,2024-11-15,CUST033,Mumbai,Retail Store,Groceries,Beverages,2,4139,15,8278,1241.7,7036.3,Credit Card
+ORD1010,2024-06-07,CUST003,Hyderabad,Retail Store,Groceries,Staples,1,561,20,561,112.2,448.8,Cash on Delivery
+ORD1011,2024-05-08,CUST008,Pune,Online,Fashion,Jeans,1,1167,20,1167,233.4,933.6,UPI
+ORD1012,2024-08-18,CUST008,Delhi,Online,Electronics,Headphones,3,196,10,588,58.8,529.2,UPI
+ORD1013,2024-10-25,CUST019,Chennai,Retail Store,Electronics,Headphones,1,3312,5,3312,165.6,3146.4,UPI
+ORD1014,2024-10-19,CUST023,Bengaluru,Online,Electronics,Headphones,3,4462,0,13386,0.0,13386.0,Cash on Delivery
+ORD1015,2024-07-17,CUST023,Pune,Retail Store,Fashion,Jeans,2,2318,20,4636,927.2,3708.8,Debit Card
+ORD1016,2024-08-25,CUST026,Pune,Online,Fashion,Jeans,5,3182,0,15910,0.0,15910.0,Cash on Delivery
+ORD1017,2024-05-12,CUST007,Pune,Online,Fashion,Watches,2,2289,20,4578,915.6,3662.4,Cash on Delivery
+ORD1018,2024-06-25,CUST022,Mumbai,Retail Store,Electronics,Accessories,4,550,20,2200,440.0,1760.0,Credit Card
+ORD1019,2024-11-14,CUST004,Hyderabad,Marketplace,Fashion,Shoes,1,1979,0,1979,0.0,1979.0,Debit Card
+ORD1020,2024-05-20,CUST049,Mumbai,Retail Store,Electronics,Mobile,4,4741,10,18964,1896.4,17067.6,Cash on Delivery
